@@ -90,8 +90,8 @@
 
 .dark-theme{
     --primary-color: #747474;
-    --secondary-color: #fff;
-    --tertiary-color:rgb(43, 43, 43);
+    --secondary-color: rgb(255, 255, 255);
+    --tertiary-color:rgb(29, 29, 29);
 }
 
 
